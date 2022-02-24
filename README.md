@@ -20,3 +20,32 @@ Step 2: Create a GitHub repository
 3. Follow the instructions for your local machine type to create the repository using the command line.
 
 Step 3: Upload a sample app to the GitHub repository
+
+
+Part 2: Glossary to include these terms in a bulleted list.
+
+Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
+
+Branch
+
+Clone
+
+Commit
+
+Fetch
+
+GIT
+
+Github
+
+Merge
+
+Merge Conflict
+
+Push
+
+Pull
+
+Remote
+
+Repository
